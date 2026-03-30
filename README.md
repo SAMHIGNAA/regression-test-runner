@@ -13,25 +13,19 @@ Lightweight Python-based regression test framework that dynamically discovers te
 - Modular and extensible design
 
 ## Project Structure
-
--src/ → core logic (runner, reporter, utils)
--tests/ → test cases
--main.py → entry point
+src/ → core logic (runner, reporter, utils),
+tests/ → test cases,
+main.py → entry point.
 
 
 ## How to Run
-
 Run all tests:
-
 python main.py
-
 Run specific test:
-
 python main.py --filter login
 
-##Example Use Case
-
--Execute regression test suites
--Identify failing test cases quickly
--Track execution performance
+### Example Use Case
+- Execute regression test suites
+- Identify failing test cases quickly
+- Track execution performance
 
