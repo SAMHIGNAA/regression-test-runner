@@ -14,7 +14,9 @@ Lightweight Python-based regression test framework that dynamically discovers te
 
 ## Project Structure
 src/ → core logic (runner, reporter, utils),
+
 tests/ → test cases,
+
 main.py → entry point.
 
 
