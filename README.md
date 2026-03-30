@@ -20,7 +20,8 @@ main.py → entry point.
 
 ## How to Run
 Run all tests:
-python main.py
+python main.py,
+
 Run specific test:
 python main.py --filter login
 
